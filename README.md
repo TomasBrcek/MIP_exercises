@@ -1,6 +1,8 @@
 # DMBLOCK - minizadanie3
 **Tomáš Brček**
+
 **Cvičenie:** Streda 11:00
+
 **Dátum:** 10.4.2024
 
 ---
